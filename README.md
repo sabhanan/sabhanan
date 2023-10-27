@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Sabhanan Naja</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw1Ysy50jnWnyrBinCSZLdPx&ust=1698461553283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiV1saclYIDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Javascript**
 
